@@ -43,8 +43,8 @@ Documentation and analysis of real-world support cases:
 - **Motherboard:** Z790 AORUS ELITE AX  
 - **RAM:** 64 GB DDR5 Corsair Vengeance  
 - **Storage:** Corsair MP600 4 TB NVMe  
-- **Cooling:** Corsair H100i AIO  
-- **Case:** Corsair 4000D Airflow  
+- **Cooling:** Corsair Nautilus 360mm
+- **Case:** NZXT H7 FLOW 
 - **PSU:** 1000 W 80+ Platinum  
 
 **Highlights:**
