@@ -30,6 +30,29 @@ Documentation and analysis of real-world support cases:
 - **System Tools** – Batch and PowerShell utilities
 - **2 PC System Builds** - completed with success. 
 
----
+## 🖥️ Custom High-Performance Workstation Build
+
+![Custom PC Build](ec839f62-e014-4358-ba65-cad1b817816d.png)
+
+**Purpose:** Designed a stable, thermally optimized workstation for gaming, virtualization, and AI workloads.  
+**Focus:** Cable management, BIOS optimization, and long-term system reliability.
+
+**Specs:**
+- **CPU:** Intel Core i7-13700K  
+- **GPU:** MSI RTX 5090 SUPRIM X  
+- **Motherboard:** Z790 AORUS ELITE AX  
+- **RAM:** 64 GB DDR5 Corsair Vengeance  
+- **Storage:** Corsair MP600 4 TB NVMe  
+- **Cooling:** Corsair H100i AIO  
+- **Case:** Corsair 4000D Airflow  
+- **PSU:** 1000 W 80+ Platinum  
+
+**Highlights:**
+- Tuned fan curves and BIOS for optimal thermals under heavy load.  
+- Achieved sub-70 °C temps during sustained 4.8 GHz CPU workloads.  
+- Near-silent idle operation and efficient cable routing.  
+
+*This build reflects hands-on experience with system design, component compatibility, and performance optimization.*
+
 
 > _“Basierend auf praktischen IT-Support-Fällen aus meiner Tätigkeit bei Interdiscount.”_
