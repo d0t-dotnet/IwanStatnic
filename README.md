@@ -45,7 +45,7 @@ Documentation and analysis of real-world support cases:
 - **Storage:** Corsair MP600 4 TB NVMe  
 - **Cooling:** Corsair Nautilus 360mm
 - **Case:** NZXT H7 FLOW 
-- **PSU:** 1000 W 80+ Platinum  
+- **PSU:** Corsair PSU RMe 1200W 80+Gold
 
 **Highlights:**
 - Tuned fan curves and BIOS for optimal thermals under heavy load.  
