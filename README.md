@@ -32,7 +32,7 @@ Documentation and analysis of real-world support cases:
 
 ## 🖥️ Custom High-Performance Workstation Build
 
-![Custom PC Build](ec839f62-e014-4358-ba65-cad1b817816d.png)
+![Custom PC Build](1433162091933597756/20251029_193345.jpg)
 
 **Purpose:** Designed a stable, thermally optimized workstation for gaming, virtualization, and AI workloads.  
 **Focus:** Cable management, BIOS optimization, and long-term system reliability.
