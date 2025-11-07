@@ -22,7 +22,7 @@ Documentation and analysis of real-world support cases:
 - BIOS/UEFI Update  
 - Linux/Windows Dual-Boot Setup  
 - Password Reset via REGEDIT  
-→ **[View PDF Portfolio](#)** _(add link once uploaded)_
+→ View studies at files section.
 
 ---
 
@@ -32,7 +32,7 @@ Documentation and analysis of real-world support cases:
 
 ## 🖥️ Custom High-Performance Workstation Build
 
-![Custom PC Build](1433162091933597756/20251029_193345.jpg)
+![Custom PC Build]!
 
 **Purpose:** Designed a stable, thermally optimized workstation for gaming, virtualization, and AI workloads.  
 **Focus:** Cable management, BIOS optimization, and long-term system reliability.
@@ -55,4 +55,3 @@ Documentation and analysis of real-world support cases:
 *This build reflects hands-on experience with system design, component compatibility, and performance optimization.*
 
 
-> _“Basierend auf praktischen IT-Support-Fällen aus meiner Tätigkeit bei Interdiscount.”_
