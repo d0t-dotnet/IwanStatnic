@@ -1,6 +1,7 @@
 # Hi, I'm Iwan  
 **Detailhandelsfachmann / IT-Hardware-Support @ Interdiscount**  
 Currently transitioning toward IT Support and Cybersecurity in the near future.
+**Tech:** Windows | PowerShell | Linux | BIOS/UEFI | Hardware Repair | Networking
 
 ---
 
