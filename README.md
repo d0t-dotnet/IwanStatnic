@@ -12,7 +12,7 @@ Motivierter Quereinsteiger mit mehrjähriger praktischer Erfahrung in Hardware- 
 Dieses Repository dient als **persönliches Portfolio meiner IT-Support-Tätigkeit**.  
 Ich dokumentiere hier reale, komplexe Kundencases aus meiner täglichen Arbeit am Flughafen Zürich sowie aus privaten Projekten.  
 
-Ziel ist es, meine **systematische und strukturierte Arbeitsweise** bei der Fehleranalyse, Problemlösung und Dokumentation transparent zu machen — genau die Kompetenzen, die in einem professionellen 1st- und 2nd-Level-Support-Team gefordert werden. Jede Fallstudie enthält die Ausgangssituation, die durchgeführte Diagnose, die Lösungsschritte und das Ergebnis.
+Ziel ist es, meine **systematische und strukturierte Arbeitsweise** bei der Fehleranalyse, Problemlösung und Dokumentation transparent zu machen, genau die Kompetenzen, die in einem professionellen 1st- und 2nd-Level-Support-Team gefordert werden. Jede Fallstudie enthält die Ausgangssituation, die durchgeführte Diagnose, die Lösungsschritte und das Ergebnis.
 
 ### IT Support Case Studies
 Enthält aktuell **8 detaillierte Fallstudien** (PDF):
