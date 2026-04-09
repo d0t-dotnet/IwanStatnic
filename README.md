@@ -1,62 +1,3 @@
-# Hi, I'm Iwan  
-**Detailhandelsfachmann / IT-Hardware-Support @ Interdiscount**  
-Currently transitioning toward IT Support and Cybersecurity in the near future.
----
-
-**Tech:** Windows | PowerShell | Linux | BIOS/UEFI | Hardware Repair | Networking
-
----
-
-##  About Me
-- Hands-on hardware troubleshooting, BIOS, and Windows deployments  
-- Interested in IT Support, Systems, and Automation  
-- Building a portfolio of real-world troubleshooting case studies  
-
- **Contact:** [iwan.statnic@outlook.com](mailto:iwan.statnic@outlook.com)  
- **GitHub:** d0t_dotnet@proton.me  
-
----
-
-##  Projects
-
-### 🖥️ IT Support Case Studies
-Documentation and analysis of real-world support cases:  
-- Windows 11 Driver Troubleshooting  
-- BIOS/UEFI Update  
-- Linux/Windows Dual-Boot Setup  
-- Password Reset via REGEDIT  
-→ View studies at files section.
-
----
-
-### ⚙️ Personal Projects
-- **System Tools** – Batch and PowerShell utilities
-- **2 PC System Builds** - completed with success. 
-
-## 🖥️ Custom High-Performance Workstation Build
-
-![Custom PC Build](assets/MyPC.png)
-
-
-**Purpose:** Designed a stable, thermally optimized workstation for gaming, virtualization, and AI workloads.  
-**Focus:** Cable management, BIOS optimization, and long-term system reliability.
-
-**Specs:**
-- **CPU:** Intel Core i7-13700K  
-- **GPU:** MSI RTX 5090 SUPRIM X  
-- **Motherboard:** Z790 AORUS ELITE AX  
-- **RAM:** 64 GB DDR5 Corsair Vengeance  
-- **Storage:** Corsair MP600 4 TB NVMe  
-- **Cooling:** Corsair Nautilus 360mm
-- **Case:** NZXT H7 FLOW 
-- **PSU:** Corsair PSU RMe 1200W 80+Gold
-
-**Highlights:**
-- Tuned fan curves and BIOS for optimal thermals under heavy load.  
-- Achieved sub-70 °C temps during sustained 4.8 GHz CPU workloads.  
-- Near-silent idle operation and efficient cable routing.
-
-
 # Iwan Statnic – IT Support Case Studies & Technical Documentation
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-blue)
@@ -65,56 +6,53 @@ Documentation and analysis of real-world support cases:
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-00A4EF)
 
 **Detailhandelsfachmann | PC-Spezialist @ Interdiscount Zürich Airport**  
-Motivierter Quereinsteiger mit praktischer Erfahrung in Hardware- und Software-Troubleshooting.
+Motivierter Quereinsteiger mit mehrjähriger praktischer Erfahrung in Hardware- und Software-Troubleshooting.
 
 ### Über dieses Repository
-Hier dokumentiere ich **reale IT-Support-Fälle** aus meiner täglichen Arbeit am Flughafen sowie aus privaten Projekten.  
-Ziel ist es, meine systematische Vorgehensweise bei der Fehleranalyse, Lösungsfindung und Dokumentation zu zeigen — genau wie es in einem professionellen 1st/2nd-Level-Support-Team gefordert wird.
+Dieses Repository dient als **persönliches Portfolio meiner IT-Support-Tätigkeit**.  
+Ich dokumentiere hier reale, komplexe Kundencases aus meiner täglichen Arbeit am Flughafen Zürich sowie aus privaten Projekten.  
+
+Ziel ist es, meine **systematische und strukturierte Arbeitsweise** bei der Fehleranalyse, Problemlösung und Dokumentation transparent zu machen — genau die Kompetenzen, die in einem professionellen 1st- und 2nd-Level-Support-Team gefordert werden. Jede Fallstudie enthält die Ausgangssituation, die durchgeführte Diagnose, die Lösungsschritte und das Ergebnis.
 
 ### IT Support Case Studies
 Enthält aktuell **8 detaillierte Fallstudien** (PDF):
 
-| # | Thema                              | Typ                  |
-|---|------------------------------------|----------------------|
-| 1 | Windows 11 Treiber & Installationsprobleme | Software            |
-| 2 | BIOS/UEFI Update & Konfiguration   | Hardware / Boot     |
-| 3 | Hardware-Fehlerdiagnose & Reparatur| Hardware            |
-| 4 | Linux / Windows Dual-Boot Setup    | System              |
-| 5 | Passwort-Reset via Registry        | Windows             |
-| 6 | Netzwerk- und Verbindungsprobleme  | Networking          |
-| 7 | Microsoft 365 (Teams / Outlook) Troubleshooting | M365          |
-| 8 | Hardware-Kompatibilität & PC-Build | Hardware            |
+| # | Thema                                      | Typ                  | Kurze Beschreibung |
+|---|--------------------------------------------|----------------------|--------------------|
+| 1 | Windows Laptop Optimierung                 | Software / Hardware | Leistungsoptimierung und Stabilisierung eines Business-Laptops |
+| 2 | Bootinstallation Windows                   | System              | Saubere Windows-Installation und Treiber-Setup |
+| 3 | Windows 11 Offline-Benutzererstellung      | Windows             | Erstellung lokaler Benutzer ohne Internetverbindung |
+| 4 | Passwort-Reset via REGEDIT (Windows 11)    | Windows             | Passwort-Wiederherstellung über Registry ohne Boot-Medium |
+| 5 | Windows 11 Demo Mode                       | Windows             | Konfiguration und Troubleshooting des Demo-Modus |
+| 6 | Windows 11 Treiber Troubleshooting         | Software            | Behebung von Treiber-Konflikten und Blue-Screens |
+| 7 | BIOS/UEFI Update & Konfiguration           | Hardware / Boot     | BIOS-Update, Secure Boot und Optimierung der Einstellungen |
+| 8 | Linux / Windows Dual Boot                  | System              | Einrichtung und Stabilisierung eines Dual-Boot-Systems |
 
-→ Alle Fallstudien im Ordner **[cases/](https://github.com/d0t-dotnet/IwanStatnic/tree/main/cases)**
+→ Alle detaillierten Fallstudien im Ordner **[cases/](https://github.com/d0t-dotnet/IwanStatnic/tree/main/cases)**
+
+### Meine Vorgehensweise im IT-Support
+Bei jedem Problem folge ich einem strukturierten Prozess:
+1. **Reproduktion & Analyse** des Problems
+2. **Systematische Fehlerdiagnose** (Hardware/Software/Netzwerk)
+3. **Lösung** mit minimaler Ausfallzeit für den Kunden
+4. **Dokumentation** für zukünftige Fälle und Wissensaustausch
 
 ### Technische Kompetenzen
-- **Windows 10/11** – Troubleshooting & Deployment  
-- **Microsoft 365** (Teams, Outlook, OneDrive, SharePoint)  
-- Hardware-Diagnose & Reparaturen  
-- BIOS/UEFI und Boot-Probleme  
-- Grundkenntnisse PowerShell & Batch-Skripte  
-- Netzwerkgrundlagen (TCP/IP, DHCP, DNS, Router)  
-- Strukturierte Dokumentation & Case Management
+- **Windows 10/11** – Umfassendes Troubleshooting, Deployment und Optimierung
+- **Microsoft 365** – Teams, Outlook, OneDrive, SharePoint (Konfiguration & Support)
+- **Hardware-Diagnose & Reparaturen** – Laptops, Desktops, Kompatibilitätsprobleme
+- **BIOS/UEFI** – Updates, Konfiguration, Secure Boot, Boot-Probleme
+- **PowerShell & Batch-Skripte** – Grundkenntnisse für Automatisierung
+- **Netzwerkgrundlagen** – TCP/IP, DHCP, DNS, Router- und WLAN-Troubleshooting
+- **Strukturierte Dokumentation** – Erstellung von nachvollziehbaren Case Studies
 
 ### Zusätzliche Projekte
-- Planung und Bau eines leistungsstarken High-Performance Workstations (Intel i7-13700K + RTX 5090, optimierte Kühlung und Stabilität)
+**Custom High-Performance Workstation Build**  
+Planung und Bau eines leistungsstarken, stabilen und thermisch optimierten Workstations für Gaming, Virtualisierung und anspruchsvolle Workloads (Intel i7-13700K + RTX 5090).
 
 ---
 
 **Letzte Aktualisierung:** April 2026  
-Falls Sie weitere Details oder eine Live-Demo einer Case Study wünschen, stehe ich gerne zur Verfügung.
+Falls Sie weitere Details zu einer Case Study wünschen oder eine Live-Demo sehen möchten, stehe ich gerne zur Verfügung.
 
----
-
-**Now make it even cleaner:**
-- Create a folder called **`cases`** (lowercase) and move all your 8 PDFs into it.
-- After you commit the new README, send me the link again so I can check how it looks live.
-
-Want me to make any small changes before you update it?  
-(Example: remove the workstation part, add more badges, make the table simpler, etc.)
-
-Just say the word and I’ll adjust it instantly. Then we can finalize the application and you can send it.
-
-*This build reflects hands-on experience with system design, component compatibility, and performance optimization.*
-
-
+**Kontakt:** iwan.statnic@proton.me
